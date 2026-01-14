@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Abel Huallullo
 
-<!--
-**Huallullo/Huallullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer Jr orientado a lógica de negocio y bases de datos.
+Experiencia con SQL Server, .NET, C# y proyectos Full Stack en crecimiento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías
+- SQL Server, MySQL
+- C#, .NET
+- Node.js (en aprendizaje)
+- Firebase (Auth, Firestore)
+- Git / GitHub
+
+---
+
+## 🚀 Proyecto Destacado
+
+### 🔹 RAYMI – Sistema Administrativo
+Aplicación administrativa para la gestión de inventario y alquiler de vestuarios folklóricos.
+
+- Kotlin + Firebase
+- Operaciones CRUD
+- Validaciones y reglas de negocio
+
+🔗 https://github.com/Huallullo/RAYMI/tree/Raymi2.0
+
+---
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/abel-eduardo-huallullo-matos-1647b418b
